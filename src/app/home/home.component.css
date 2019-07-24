@@ -1,5 +1,6 @@
 .img-fluid {
     max-width: 75%;
+    max-height: 75%;
 }
 
 .carousel-caption {

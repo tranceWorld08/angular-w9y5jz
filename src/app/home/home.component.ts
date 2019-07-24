@@ -14,7 +14,7 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
     jQuery('.carousel').carousel({
-      interval:0
+      interval:2000
     })
   }
   viewProducts() {
