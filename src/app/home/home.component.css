@@ -9,3 +9,7 @@
     text-align: left;
     left:5%;
 }
+/* Relaces bootstrap carousel-caption class */
+.carousel-txt {
+  margin-left: 50px;
+}
